@@ -1,0 +1,80 @@
+body{
+	margin-top : 0px;
+	margin-bottom: 0px;
+	padding:0px;
+	font-family: 'Nova Oval', cursive;
+	text-align: center;
+	
+}
+
+
+input[type="email"],input[type="password"],input[type="text"],input[type="number"]
+
+{
+	
+	
+	outline: none;
+	padding: 10px;
+	display: block;
+	width :300px;
+	border-radius: 3px;
+	border: 1px solid #eee;
+	margin: 20px auto;
+	
+	
+}
+
+
+input[type="submit"]
+
+{
+	
+	padding :10px;
+	
+	color:#fff;
+	background:#0098cb;
+	width: 320px;
+	margin:20px auto;
+	margin-top: 0px;
+	border: 0px;
+	border-radius: 3px;
+	cursor: pointer;
+	
+
+}
+
+input[type="submit"]:HOVER
+{
+	
+	background:#777;
+	
+	
+}
+
+
+.header{
+	
+	
+	border-bottom:1px solid #eee;
+	padding:0px 0 px;
+	width: 100%;
+	text-align: center;
+	
+	
+}
+
+.header_class a{
+	border-bottom:1px solid #eee;
+	padding:10px 0 px;
+	width: 100%;
+	text-align:left;
+	
+}
+
+
+.header a{
+	
+	
+	color:#0098cb;
+	text-decoration: none;
+}
